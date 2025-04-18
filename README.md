@@ -17,7 +17,7 @@ PronoPing permet aux passionnés de tennis de table de créer ou rejoindre la li
 2. 🏴‍☠️ [Pirates des Trois Océans](https://pirates-ilshenar.fr/)
 
 ```
-Pirates des Trois Océans est un remake du jeu web portant le même nom, très populaire au début des années 2010.
+Pirates des Trois Océans est le remake du jeu web portant le même nom, très populaire au début des années 2010.
 ```
 
 3. ⚡ [MarauderAPI](https://github.com/vt-gianni/MarauderAPI)
