@@ -1,38 +1,42 @@
-# 👋 Bonjour, je m'appelle Gianni
+# 👋 Salut, moi c’est Gianni
 
-- 👀 Je m'intéresse au développement web et mobile.
-- 🌱 J'apprends actuellement React Native pour créer des applications cross-platform.
-- 📫 N'hésitez pas à me contacter : giannigiudice.fr@gmail.com
+🎯 **Développeur web** en reconversion vers la **cybersécurité**, je m’intéresse particulièrement à la **détection d’incidents**, à l’**analyse de logs** et à la **sécurité des applications**.
 
-## Jetez un coup d'oeil à mes projets
+🎓 Je suis actuellement en formation cybersécurité avec l’objectif de devenir **analyste SOC** ou **technicien cybersécurité junior**.
 
-<!--1. :trophy: [Tournois FFTT](https://github.com/vt-gianni/PingContest)-->
+---
 
-1. 🏓 [PronoPing](https://pronoping.com)
+## 🔐 Projets cybersécurité
 
-```
-PronoPing permet aux passionnés de tennis de table de créer ou rejoindre la ligue de leurs amis et de parier sur les compétitions internationales. 
-```
+1. 🛡️ [`windows-event-4625-detection`](https://github.com/vt-gianni/windows-event-4625-detection)  
+   *Mini-lab personnel simulant une tentative d'intrusion sur Windows et l'analyse de l'événement via les logs (event ID 4625). Rapport d'incident fourni en Markdown.*
 
-2. 🏴‍☠️ [Pirates des Trois Océans](https://pirates-ilshenar.fr/)
+2. 🧠 En préparation : 
+   - `wireshark-network-inspection`
+   - `linux-log-anomaly-detection`
 
-```
-Pirates des Trois Océans est le remake du jeu web portant le même nom, très populaire au début des années 2010.
-```
+---
 
-3. ⚡ [MarauderAPI](https://github.com/vt-gianni/MarauderAPI)
+## 🛠️ Projets développement web
 
-```
-MarauderAPI est une API REST mettant à disposition les données des personnages et sortilèges de l'Univers de Harry Potter.
-```
+1. 🏓 [PronoPing](https://pronoping.com)  
+   *Application de pronostics sur les compétitions de tennis de table.*
 
-4. 🐼 [Oops Bundle](https://github.com/vt-gianni/oops-bundle)
+2. 🏴‍☠️ [Pirates des Trois Océans](https://pirates-ilshenar.fr/)  
+   *Remake d’un jeu web culte du début des années 2010.*
 
-```
-Oops Bundle est un petit bundle Symfony aidant à intercépter les erreurs de vos appels API.
-```
+3. ⚡ [MarauderAPI](https://github.com/vt-gianni/MarauderAPI)  
+   *API REST autour de l’univers Harry Potter.*
 
-<!---
-vt-gianni/vt-gianni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+4. 🐼 [Oops Bundle](https://github.com/vt-gianni/oops-bundle)  
+   *Bundle Symfony pour centraliser les erreurs d’API.*
+
+---
+
+## 📫 Me contacter
+
+- 📧 giannigiudice.fr@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gianni-giudice-388b56157)
+
+---
+
