@@ -8,7 +8,7 @@
 
 ## 🔐 Projets cybersécurité
 
-1. 🛡️ [`windows-event-4625-detection`](https://github.com/vt-gianni/windows-event-4625-detection)  
+1. 🛡️ [`windows-event-4625-detection`](https://github.com/GeppettoG/windows-event-4625-detection)  
    *Mini-lab personnel simulant une tentative d'intrusion sur Windows et l'analyse de l'événement via les logs (event ID 4625). Rapport d'incident fourni en Markdown.*
 
 2. 🧠 En préparation : 
