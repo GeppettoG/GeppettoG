@@ -1,12 +1,12 @@
 # 👋 Salut, moi c’est Gianni
 
-🎯 **Développeur web** en reconversion vers la **cybersécurité**, je m’intéresse particulièrement à la **détection d’incidents**, à l’**analyse de logs** et à la **sécurité des applications**.
+🎯 **Développeur web** passionné et fondateur de [SpinLabs](https://spinlabs.fr), je m’intéresse particulièrement à la **détection d’incidents**, à l’**analyse de logs** et à la **sécurité des applications**.
 
 🎓 Je suis actuellement en formation cybersécurité avec l’objectif de devenir **analyste SOC** ou **technicien cybersécurité junior**.
 
 ---
 
-## 🔐 Projets cybersécurité
+## 🔐 Projets SpinLabs
 
 1. 🛡️ [`windows-event-4625-detection`](https://github.com/GeppettoG/windows-event-4625-detection)  
    *Mini-lab personnel simulant une tentative d'intrusion sur Windows et l'analyse de l'événement via les logs (event ID 4625). Rapport d'incident fourni en Markdown.*
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Projets développement web
+## 🛠️ Projets personnels
 
 1. 🏓 [PronoPing](https://pronoping.com)  
    *Application de pronostics sur les compétitions de tennis de table.*
