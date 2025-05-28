@@ -1,8 +1,8 @@
 # 👋 Salut, moi c’est Gianni
 
-🎯 **Développeur web** passionné et fondateur de [SpinLabs](https://spinlabs.fr), je m’intéresse particulièrement à la **détection d’incidents**, à l’**analyse de logs** et à la **sécurité des applications**.
+🎯 **Développeur web** passionné et fondateur de [SpinLabs](https://spinlabs.fr), je suis spécialisé dans le développement Back-end et utilise majoritairement PHP Symfony. 🐘
 
-🎓 Je suis actuellement en formation cybersécurité avec l’objectif de devenir **analyste SOC** ou **technicien cybersécurité junior**.
+🏓 J'ai quitté mon CDI pour créer ma propre entreprise : **SpinLabs**, une agence digitale spécialisée sur la création d'applications web / mobiles et SaaS pour clubs, associations et petites structures.
 
 ---
 
