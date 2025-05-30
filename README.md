@@ -2,14 +2,14 @@
 
 🎯 **Développeur web** passionné et fondateur de [Spinlabs](https://spinlabs.fr), je suis spécialisé dans le développement Back-end et utilise majoritairement PHP Symfony. 🐘
 
-🏓 J'ai quitté mon CDI pour créer ma propre entreprise : **Spinlabs**, une agence digitale spécialisée sur la création d'applications web / mobiles et SaaS pour clubs, associations et petites structures.
+🏓 J'ai quitté mon CDI pour créer ma propre entreprise : **Spinlabs**, une agence digitale spécialisée dans la création d'applications web / mobiles et SaaS pour clubs, associations et petites structures.
 
 ---
 
 ## 🔐 Projets SpinLabs
 
-1. 🛡️ [`windows-event-4625-detection`](https://github.com/GeppettoG/windows-event-4625-detection)  
-   *Mini-lab personnel simulant une tentative d'intrusion sur Windows et l'analyse de l'événement via les logs (event ID 4625). Rapport d'incident fourni en Markdown.*
+1. 🛡️ [Feenly](https://github.com/GeppettoG/feenly)  
+   *Les adhésions aux clubs sportifs, simplifiées.*
 
 <!--2. 🧠 En préparation : 
    - `wireshark-network-inspection`
