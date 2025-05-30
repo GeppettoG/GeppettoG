@@ -6,14 +6,10 @@
 
 ---
 
-## 🔐 Projets SpinLabs
+## 🌀 Projets SpinLabs
 
-1. 🛡️ [Feenly](https://github.com/GeppettoG/feenly)  
+1. 💳 [Feenly](https://github.com/GeppettoG/feenly)  
    *Les adhésions aux clubs sportifs, simplifiées.*
-
-<!--2. 🧠 En préparation : 
-   - `wireshark-network-inspection`
-   - `linux-log-anomaly-detection`-->
 
 ---
 
