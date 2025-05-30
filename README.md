@@ -2,7 +2,7 @@
 
 🎯 **Développeur web** passionné et fondateur de [SpinLabs](https://spinlabs.fr), je suis spécialisé dans le développement Back-end et utilise majoritairement PHP Symfony. 🐘
 
-🏓 J'ai quitté mon CDI pour créer ma propre entreprise : **SpinLabs**, une agence digitale spécialisée sur la création d'applications web / mobiles et SaaS pour clubs, associations et petites structures.
+🏓 J'ai quitté mon CDI pour créer ma propre entreprise : **Spinlabs**, une agence digitale spécialisée sur la création d'applications web / mobiles et SaaS pour clubs, associations et petites structures.
 
 ---
 
