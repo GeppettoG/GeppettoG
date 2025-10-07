@@ -8,7 +8,7 @@
 
 ## 🌀 Projets SpinLabs
 
-1. 💳 [Feenly](https://github.com/GeppettoG/feenly)  
+1. 💳 [Feenly](https://feenly.fr)  
    *Les adhésions aux clubs sportifs, simplifiées.*
 
 ---
