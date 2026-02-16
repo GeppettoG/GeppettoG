@@ -6,25 +6,22 @@
 
 ---
 
-## 🌀 Projets SpinLabs
+## 🛠️ Projets personnels
+
 
 1. 💳 [Feenly](https://feenly.fr)  
    *Les adhésions aux clubs sportifs, simplifiées.*
-
----
-
-## 🛠️ Projets personnels
-
-1. 🏓 [PronoPing](https://pronoping.com)  
+   
+2. 🏓 [PronoPing](https://pronoping.com)  
    *Application de pronostics sur les compétitions de tennis de table.*
 
-2. 🏴‍☠️ [Pirates des Trois Océans](https://pirates-ilshenar.fr/)  
+3. 🏴‍☠️ [Pirates des Trois Océans](https://pirates-ilshenar.fr/)  
    *Remake d’un jeu web culte du début des années 2010.*
 
-3. ⚡ [MarauderAPI](https://github.com/vt-gianni/MarauderAPI)  
+4. ⚡ [MarauderAPI](https://github.com/vt-gianni/MarauderAPI)  
    *API REST autour de l’univers Harry Potter.*
 
-4. 🐼 [Oops Bundle](https://github.com/vt-gianni/oops-bundle)  
+5. 🐼 [Oops Bundle](https://github.com/vt-gianni/oops-bundle)  
    *Bundle Symfony pour centraliser les erreurs d’API.*
 
 ---
