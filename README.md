@@ -2,7 +2,7 @@
 
 🎯 **Développeur web** passionné et fondateur de [Feenly](https://feenly.fr), je suis spécialisé dans le développement Back-end et utilise majoritairement PHP Symfony. 🐘
 
-🏓 J'ai quitté mon CDI pour créer ma propre entreprise : **Spinlabs**, une agence digitale spécialisée dans la création d'applications web / mobiles et SaaS pour clubs, associations et petites structures.
+🏓 Je développe des applications web / mobiles et SaaS pour clubs, associations et petites structures pendant mon temps libre.
 
 ---
 
