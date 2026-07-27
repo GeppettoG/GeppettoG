@@ -1,27 +1,30 @@
 # 👋 Salut, moi c’est Gianni
 
-🎯 **Développeur web** passionné et fondateur de [Feenly](https://feenly.fr), je suis spécialisé dans le développement Back-end et utilise majoritairement PHP Symfony. 🐘
+🎯 **Développeur** passionné et fondateur de [Hallows](https://hallows-games.fr), créateur d'enquêtes immersives occultes à vivre chez soi. 🎃
 
-🏓 Je développe des applications web / mobiles et SaaS pour clubs, associations et petites structures pendant mon temps libre.
+💻 Je développe des applications web et suis spécialisé dans le développement Back-end. J'utilise majoritairement PHP Symfony. 🐘
 
 ---
 
 ## 🛠️ Projets personnels
 
 
-1. 💳 [Feenly](https://feenly.fr)  
+1. 🐼 [Hallows Games](https://hallows-games.fr)
+   *Des enquêtes immersives et occultes à faire chez soi.*
+
+2.  💳 (OLD) Feenly  
    *Les adhésions aux clubs sportifs, simplifiées.*
    
-2. 🏓 [PronoPing](https://pronoping.com)  
+3. 🏓 (OLD) PronoPing 
    *Application de pronostics sur les compétitions de tennis de table.*
 
-3. 🏴‍☠️ [Pirates des Trois Océans](https://pirates-ilshenar.fr/)  
+4. 🏴‍☠️ (OLD) Pirates des Trois Océans](https://pirates-ilshenar.fr
    *Remake d’un jeu web culte du début des années 2010.*
 
-4. ⚡ [MarauderAPI](https://github.com/vt-gianni/MarauderAPI)  
+5. ⚡ (OLD) MarauderAPI  
    *API REST autour de l’univers Harry Potter.*
 
-5. 🐼 [Oops Bundle](https://github.com/vt-gianni/oops-bundle)  
+6. 🐼 (OLD) Oops Bundle
    *Bundle Symfony pour centraliser les erreurs d’API.*
 
 ---
