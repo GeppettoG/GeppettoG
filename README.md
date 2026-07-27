@@ -9,22 +9,28 @@
 ## 🛠️ Projets personnels
 
 
-1. 🐼 [Hallows Games](https://hallows-games.fr)
+1. 🎃 [Hallows Games](https://hallows-games.fr)
+   
    *Des enquêtes immersives et occultes à faire chez soi.*
 
-2.  💳 (OLD) Feenly  
+2. 💳 (OLD) Feenly
+   
    *Les adhésions aux clubs sportifs, simplifiées.*
    
-3. 🏓 (OLD) PronoPing 
+3. 🏓 (OLD) PronoPing
+   
    *Application de pronostics sur les compétitions de tennis de table.*
 
-4. 🏴‍☠️ (OLD) Pirates des Trois Océans](https://pirates-ilshenar.fr
+4. 🏴‍☠️ (OLD) Pirates des Trois Océans
+   
    *Remake d’un jeu web culte du début des années 2010.*
 
-5. ⚡ (OLD) MarauderAPI  
+5. ⚡ (OLD) MarauderAPI
+   
    *API REST autour de l’univers Harry Potter.*
 
 6. 🐼 (OLD) Oops Bundle
+   
    *Bundle Symfony pour centraliser les erreurs d’API.*
 
 ---
